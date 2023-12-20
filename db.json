@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Graduate from Uni",
+      "day": "Monday July 2023",
+      "reminder": true,
+      "id": 68015
+    },
+    {
+      "text": "Buy ferrari",
+      "day": "Monday",
+      "reminder": false,
+      "id": 68016
+    },
+    {
+      "text": "Own Olamphzy Tech Company",
+      "day": "Friday",
+      "reminder": true,
+      "id": 68017
+    },
+    {
+      "text": "Visit Zoo",
+      "day": "Monday",
+      "reminder": true,
+      "id": 68018
+    }
+  ]
+}
